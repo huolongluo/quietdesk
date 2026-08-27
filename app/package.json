@@ -6,7 +6,7 @@
     "dev": "next dev --hostname 127.0.0.1 --port 3010",
     "build": "next build",
     "start": "next start --port 3000",
-    "demo:video": "node scripts/record-demo.mjs"
+    "demo:video": "node scripts/capture-demo.mjs"
   },
   "dependencies": {
     "next": "^16.3.2",

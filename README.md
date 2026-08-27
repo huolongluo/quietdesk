@@ -59,6 +59,15 @@ AGENT_URL=http://127.0.0.1:8787 npm run dev
 
 Open http://127.0.0.1:3010 and click **Run Harbor Auto overnight**.
 
+Demo recording (needs the API + UI running):
+
+```bash
+cd app
+APP_URL=http://127.0.0.1:3010 npm run demo:video
+```
+
+The cut is `docs/demo.mp4` (~47s). Upload it to **public** YouTube or Vimeo for Devpost. Architecture still: `docs/architecture.svg` and `docs/architecture.png`.
+
 ### Live models (optional)
 
 ```bash

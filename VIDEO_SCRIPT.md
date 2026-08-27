@@ -1,6 +1,6 @@
 # Video script (≤ 3:00) — QuietDesk
 
-English. Live product. No music. No talking head required.
+A silent cut already exists at `docs/demo.mp4` (~47s): title cards cover problem / who / why, then the Harbor Auto board. Upload that file to public YouTube or Vimeo. If you record live, use the timing below.
 
 **0:00–0:20 · Closed shop**
 Harbor Auto, Tacoma. Lights out. Six messages after 18:00.

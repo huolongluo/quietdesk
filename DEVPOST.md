@@ -54,7 +54,7 @@ Optional Amazon Bedrock AgentCore runtime is in `agents/quietdesk/runtime.py`. L
 3. Confirm Maya 10:30 and NAPA 5W-30 are AUTO
 4. Bind Chris's $187 refund in the morning
 
-Architecture diagram: `docs/architecture.svg`
+Architecture diagram: `docs/architecture.png` (also `docs/architecture.svg`). Demo cut: `docs/demo.mp4`.
 
 ## Built with (checkboxes)
 
