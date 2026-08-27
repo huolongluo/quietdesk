@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 920 420" role="img" aria-label="QuietDesk architecture">
+  <rect width="920" height="420" fill="#0c1118"/>
+  <text x="40" y="42" fill="#e8b86d" font-family="Georgia, serif" font-size="22">QuietDesk · Strands Graph</text>
+  <text x="40" y="68" fill="#9a917f" font-family="system-ui" font-size="13">Inbox ? intake ? scout ? clerk ? Python gate ? closer ? owner bind</text>
+  <g font-family="system-ui" font-size="13">
+    <rect x="40" y="100" width="140" height="56" rx="10" fill="#151c26" stroke="#3a4250"/>
+    <text x="110" y="133" fill="#e8e2d4" text-anchor="middle">Night inbox</text>
+    <rect x="210" y="100" width="140" height="56" rx="10" fill="#151c26" stroke="#e8b86d"/>
+    <text x="280" y="133" fill="#e8b86d" text-anchor="middle">intake</text>
+    <rect x="380" y="100" width="140" height="56" rx="10" fill="#151c26" stroke="#e8b86d"/>
+    <text x="450" y="133" fill="#e8b86d" text-anchor="middle">scout</text>
+    <rect x="550" y="100" width="140" height="56" rx="10" fill="#151c26" stroke="#e8b86d"/>
+    <text x="620" y="133" fill="#e8b86d" text-anchor="middle">clerk</text>
+    <rect x="380" y="200" width="140" height="56" rx="10" fill="#1a241c" stroke="#7dbe8a"/>
+    <text x="450" y="233" fill="#7dbe8a" text-anchor="middle">gate (Python)</text>
+    <rect x="550" y="200" width="140" height="56" rx="10" fill="#151c26" stroke="#e8b86d"/>
+    <text x="620" y="233" fill="#e8b86d" text-anchor="middle">closer</text>
+    <rect x="720" y="200" width="160" height="56" rx="10" fill="#151c26" stroke="#d9785c"/>
+    <text x="800" y="233" fill="#d9785c" text-anchor="middle">owner bind</text>
+  </g>
+  <text x="40" y="310" fill="#9a917f" font-family="system-ui" font-size="13">AUTO: open-bay reschedule · NAPA standing PO under $80</text>
+  <text x="40" y="334" fill="#9a917f" font-family="system-ui" font-size="13">HOLD: refunds · warranty · angry · quotes $150+ · unknown vendors</text>
+  <text x="40" y="380" fill="#e8e2d4" font-family="system-ui" font-size="13">Tools persist Shift JSON. AgentCore optional. The model drafts. It does not bind.</text>
+</svg>

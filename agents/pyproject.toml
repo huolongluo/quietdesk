@@ -1,0 +1,29 @@
+[project]
+name = "quietdesk"
+version = "0.1.0"
+description = "Overnight front office for independent shops, run as a Strands Graph."
+readme = { text = "QuietDesk overnight front office for independent shops." }
+requires-python = ">=3.11,<3.14"
+license = { text = "Apache-2.0" }
+dependencies = [
+  "strands-agents>=1.0.0",
+  "strands-agents-tools>=0.2.0",
+  "fastapi>=0.115.0",
+  "uvicorn[standard]>=0.32.0",
+  "pydantic>=2.10.0",
+  "python-dotenv>=1.0.0",
+]
+
+[project.optional-dependencies]
+agentcore = ["bedrock-agentcore>=0.1.0"]
+dev = ["pytest>=8.0.0"]
+
+[project.scripts]
+quietdesk = "quietdesk.server:main"
+
+[build-system]
+requires = ["setuptools>=68"]
+build-backend = "setuptools.build_meta"
+
+[tool.setuptools.packages.find]
+include = ["quietdesk*"]
