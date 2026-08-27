@@ -66,7 +66,7 @@ cd app
 APP_URL=http://127.0.0.1:3010 npm run demo:video
 ```
 
-The cut is `docs/demo.mp4` (~47s). Upload it to **public** YouTube or Vimeo for Devpost. Architecture still: `docs/architecture.svg` and `docs/architecture.png`.
+The cut is `docs/demo.mp4` (~47s). Public demo: [https://youtu.be/lr9uhRi2YV8](https://youtu.be/lr9uhRi2YV8). Architecture still: `docs/architecture.svg` and `docs/architecture.png`.
 
 ### Live models (optional)
 
